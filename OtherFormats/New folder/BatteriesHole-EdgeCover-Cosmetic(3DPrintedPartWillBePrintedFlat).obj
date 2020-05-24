@@ -1,0 +1,12 @@
+#
+# Object file
+# Created by SpaceClaim
+#
+
+mtllib BatteriesHole-EdgeCover-Cosmetic(3DPrintedPartWillBePrintedFlat).mtl
+
+# BatteriesHoleCover\BatteriesHoleCover
+
+o BatteriesHoleCover\BatteriesHoleCover
+g BatteriesHoleCover\BatteriesHoleCover
+s off
