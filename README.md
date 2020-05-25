@@ -5,6 +5,6 @@ It will be provided in an Open format (the aim is a customizable OpenScad format
 
 AeraTM is a volunteers project started in the FaceShields discussion groups during the impressive civic mobilization of the COVID19 pandemic and spinned off as an independent initiative at the request of medical professionals in the Timisoara region of Romania.
 
-See the exploded 3D-View on SketchFab by clicking the image below:
+See the exploded 3D-View of the Air Unit on SketchFab by clicking the image below:
 
 <a href="https://bit.ly/2WX4ps6" target="_blank" rel="noopener noreferrer"><img alt="AeraTM PAPR Exploded 3D-View on SketchFab" src="Documentation/images/SketchFab-ExplodedView.jpg"></a>
