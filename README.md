@@ -3,6 +3,8 @@ AeraTM is an Open Source PAPR device (positive pressure air respirator) which is
 
 It will be provided in an Open format (the aim is a customizable OpenScad format), together with the appropriate documentation, production/installation/operation and DOFFING instructions. The documentation will ultimately be provided in romanian and english. Transators are always welcome to maintain other languages as well. 
 
-AeraTM is a volunteers project started in the FaceShields discussion groups during the impressive civic mobilization of the COVID19 pandemic and spinned off as an independent initiative at the request of medical professionals in the Timisoara, Romania, area.
+AeraTM is a volunteers project started in the FaceShields discussion groups during the impressive civic mobilization of the COVID19 pandemic and spinned off as an independent initiative at the request of medical professionals in the Timisoara region of Romania.
 
-See a rendering of the exploded view on SketchFab: https://bit.ly/2WX4ps6
+See the exploded 3D-View on SketchFab by clicking the image below:
+
+<a href="https://bit.ly/2WX4ps6"><img alt="AeraTM PAPR Exploded 3D-View on SketchFab" src="Documentation/images/SketchFab-ExplodedView.jpg"></a>
