@@ -7,4 +7,4 @@ AeraTM is a volunteers project started in the FaceShields discussion groups duri
 
 See the exploded 3D-View on SketchFab by clicking the image below:
 
-<a href="https://bit.ly/2WX4ps6" target="_blank" rel="noopener noreferrer" onclick="window.open (this.href, ''); return false";><img alt="AeraTM PAPR Exploded 3D-View on SketchFab" src="Documentation/images/SketchFab-ExplodedView.jpg"></a>
+<a href="https://bit.ly/2WX4ps6" target="_blank" rel="noopener noreferrer"); return false";><img alt="AeraTM PAPR Exploded 3D-View on SketchFab" src="Documentation/images/SketchFab-ExplodedView.jpg"></a>
